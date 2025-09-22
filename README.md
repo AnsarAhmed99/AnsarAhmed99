@@ -90,7 +90,7 @@
 ## 📊 GitHub Stats
 ![Ansar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnsarAhmed99&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsarAhmed99&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnsarAhmed99&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=AnsarAhmed99&theme=radical)](https://git.io/streak-stats)
 ![Ansar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnsarAhmed99&theme=radical)
 ![GitHub Snake Light](https://github.com/AnsarAhmed99/AnsarAhmed99/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/AnsarAhmed99/AnsarAhmed99/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
