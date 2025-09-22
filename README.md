@@ -1,16 +1,101 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m Ansar,</h1>
 
-<!--
-**AnsarAhmed99/AnsarAhmed99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">🎓 MS Computer Science (Cybersecurity Specialization) | 🎓 Bachelors in Electronics Engineering<br>📍 From Karachi, Pakistan | 🌍 Aspiring to explore global opportunities (Study / Research / Career abroad)</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<p align="left">💡 I’m a research-driven learner who loves to simplify complex concepts step by step.<br>🔍 My passion lies in problem-solving, troubleshooting, and continuous self-learning.<br>🛡️ Currently focusing on Cybersecurity research, but I enjoy exploring:<br><br>🖥️ Computer Science research methodologies<br><br>⚡ AI, Machine Learning & Security intersections<br><br>🔧 Hands-on projects (problem → design → build → test)<br><br>📑 Academic writing (research papers, literature reviews, state-of-the-art studies)<br><br>📑 Role of AI in Cybersecurity: A Survey (ICISCT2025 Conference Paper)</p>
+
+###
+
+<h2 align="left">🛠️ Skills & Tools</h2>
+
+###
+
+<p align="left">Programming & Scripting: Python 🐍, <br><br>Cybersecurity & Networking: Kali Linux 🐧, Bug Bounty🌐, PenTesting 🔐<br><br>Research & Writing: Academic writing ✍️, LaTeX 📚, Research Paper Drafting 🔎<br><br>Data & AI Tools: Pandas 🐼, NumPy 🔢, Streamlit ⚡, Jupyter 📓<br><br>Other Strengths: Troubleshooting 🛠️, Problem-Solving 🎯, System Design 🏗️</p>
+
+###
+
+<h2 align="left">📖 Education</h2>
+
+###
+
+<p align="left">🎓 MS in Computer Science (Cybersecurity specialization)<br>🎓 BE in Electronics Engineering</p>
+
+###
+
+<h2 align="left">🌟 Current Goals</h2>
+
+###
+
+<p align="left">📝 Writing original research papers in Cybersecurity / AI Security<br><br>🎯 Improving academic + technical writing skills<br><br>🌍 Preparing for PhD opportunities / research abroad<br><br>🛡️ Building projects at the intersection of AI & Cybersecurity</p>
+
+###
+
+<h2 align="left">📫 Connect with Me!!</h2>
+
+###
+
+<p align="left">💼 LinkedIn: ansar-ahmed99/<br>📧 Email: Pitafiansar@gmail.com/<br>🌐 GitHub Profile: AnsarAhmed99/</p>
+
+###
+
+<h2 align="left">✨ "Always engaged in learning, solving, and sharing knowledge — step by step."</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ansar-ahmed99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Ansar_Ahmed_P" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/@ansarahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="@ansar_ahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="+923062580995" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/AnsarAhmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+![Ansar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnsarAhmed99&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsarAhmed99&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnsarAhmed99&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Ansar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnsarAhmed99&theme=radical)
+![GitHub Snake Light](https://github.com/AnsarAhmed99/AnsarAhmed99/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/AnsarAhmed99/AnsarAhmed99/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
+
+###
