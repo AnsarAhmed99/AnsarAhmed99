@@ -2,51 +2,51 @@
 
 ###
 
-<h4 align="left">🎓 MS Computer Science (Cybersecurity Specialization) | 🎓 Bachelors in Electronics Engineering<br>📍 From Karachi, Pakistan | 🌍 Aspiring to explore global opportunities (Study / Research / Career abroad)</h4>
+<h3 align="left">🎓 MS Computer Science (Cybersecurity Specialization) | 🎓 Bachelors in Electronics Engineering<br>📍 From Karachi, Pakistan | 🌍 Aspiring to explore global opportunities (Study / Research / Career abroad)</h3>
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h1 align="left">🚀 About Me</h1>
 
 ###
 
-<p align="left">💡 I’m a research-driven learner who loves to simplify complex concepts step by step.<br>🔍 My passion lies in problem-solving, troubleshooting, and continuous self-learning.<br>🛡️ Currently focusing on Cybersecurity research, but I enjoy exploring:<br><br>🖥️ Computer Science research methodologies<br><br>⚡ AI, Machine Learning & Security intersections<br><br>🔧 Hands-on projects (problem → design → build → test)<br><br>📑 Academic writing (research papers, literature reviews, state-of-the-art studies)<br><br>📑 Role of AI in Cybersecurity: A Survey (ICISCT2025 Conference Paper)</p>
+<h3 align="left">💡 I’m a research-driven learner who loves to simplify complex concepts step by step.<br>🔍 My passion lies in problem-solving, troubleshooting, and continuous self-learning.<br>🛡️ Currently focusing on Cybersecurity research, but I enjoy exploring:<br><br>🖥️ Computer Science research methodologies<br><br>⚡ AI, Machine Learning & Security intersections<br><br>🔧 Hands-on projects (problem → design → build → test)<br><br>📑 Academic writing (research papers, literature reviews, state-of-the-art studies)<br><br>📑 Role of AI in Cybersecurity: A Survey (ICISCT2025 Conference Paper)</h3>
 
 ###
 
-<h2 align="left">🛠️ Skills & Tools</h2>
+<h1 align="left">🛠️ Skills & Tools</h1>
 
 ###
 
-<p align="left">Programming & Scripting: Python 🐍, <br><br>Cybersecurity & Networking: Kali Linux 🐧, Bug Bounty🌐, PenTesting 🔐<br><br>Research & Writing: Academic writing ✍️, LaTeX 📚, Research Paper Drafting 🔎<br><br>Data & AI Tools: Pandas 🐼, NumPy 🔢, Streamlit ⚡, Jupyter 📓<br><br>Other Strengths: Troubleshooting 🛠️, Problem-Solving 🎯, System Design 🏗️</p>
+<h3 align="left">Programming & Scripting: Python 🐍, <br><br>Cybersecurity & Networking: Kali Linux 🐧, Bug Bounty🌐, PenTesting 🔐<br><br>Research & Writing: Academic writing ✍️, LaTeX 📚, Research Paper Drafting 🔎<br><br>Data & AI Tools: Pandas 🐼, NumPy 🔢, Streamlit ⚡, Jupyter 📓<br><br>Other Strengths: Troubleshooting 🛠️, Problem-Solving 🎯, System Design 🏗️</h3>
 
 ###
 
-<h2 align="left">📖 Education</h2>
+<h1 align="left">📖 Education</h1>
 
 ###
 
-<p align="left">🎓 MS in Computer Science (Cybersecurity specialization)<br>🎓 BE in Electronics Engineering</p>
+<h3 align="left">🎓 MS in Computer Science (Cybersecurity specialization)<br>🎓 BE in Electronics Engineering</h3>
 
 ###
 
-<h2 align="left">🌟 Current Goals</h2>
+<h1 align="left">🌟 Current Goals</h1>
 
 ###
 
-<p align="left">📝 Writing original research papers in Cybersecurity / AI Security<br><br>🎯 Improving academic + technical writing skills<br><br>🌍 Preparing for PhD opportunities / research abroad<br><br>🛡️ Building projects at the intersection of AI & Cybersecurity</p>
+<h3 align="left">📝 Writing original research papers in Cybersecurity / AI Security<br><br>🎯 Improving academic + technical writing skills<br><br>🌍 Preparing for PhD opportunities / research abroad<br><br>🛡️ Building projects at the intersection of AI & Cybersecurity</h3>
 
 ###
 
-<h2 align="left">📫 Connect with Me!!</h2>
+<h1 align="left">📫 Connect with Me!!</h1>
 
 ###
 
-<p align="left">💼 LinkedIn: ansar-ahmed99/<br>📧 Email: Pitafiansar@gmail.com/<br>🌐 GitHub Profile: AnsarAhmed99/</p>
+<h3 align="left">💼 LinkedIn: ansar-ahmed99/<br>📧 Email: Pitafiansar@gmail.com/<br>🌐 GitHub Profile: AnsarAhmed99/</h3>
 
 ###
 
-<h2 align="left">✨ "Always engaged in learning, solving, and sharing knowledge — step by step."</h2>
+<h1 align="left">✨ "Always engaged in learning, solving, and sharing knowledge — step by step."</h1>
 
 ###
 
