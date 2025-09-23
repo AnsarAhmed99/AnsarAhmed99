@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">💼 <a href="https://www.linkedin.com/in/ansar-ahmed99" target="_blank">My Linkedln</a>/<br>📧 <a href="pitafiansar@gmail.com" target="_blank">Email Me</a>/<br>🌐 <a href="https://AnsarAhmed99.github.io" target="_blank">My CV</a>
+<h3 align="left">💼 <a href="https://www.linkedin.com/in/ansar-ahmed99" target="_blank">My Linkedln</a>/<br>📧 Email Me at: pitafiansar@gmail.com</a>/<br>🌐 <a href="https://AnsarAhmed99.github.io" target="_blank">My CV</a>
 </h3>
 
 ###
