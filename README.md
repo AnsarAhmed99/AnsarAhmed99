@@ -42,7 +42,8 @@
 
 ###
 
-<h3 align="left">💼 LinkedIn: ansar-ahmed99/<br>📧 Email: Pitafiansar@gmail.com/<br>🌐 GitHub Profile: AnsarAhmed99/</h3>
+<h3 align="left">💼 <a href="https://www.linkedin.com/in/ansar-ahmed99" target="_blank">My Linkedln</a>/<br>📧 <a href="pitafiansar@gmail.com" target="_blank">Email Me</a>/<br>🌐 <a href="https://AnsarAhmed99.github.io" target="_blank">My CV</a>
+</h3>
 
 ###
 
