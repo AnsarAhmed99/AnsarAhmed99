@@ -1,46 +1,27 @@
-name: Generate GitHub Contribution Snake
+name: Generate Snake
 
-# when to run: on push, manually, and on a cron schedule
 on:
-  push:
-    branches: [ "main" ]         # optional: regenerate on each push
-  workflow_dispatch:            # run manually from Actions tab
   schedule:
-    - cron: "0 */12 * * *"      # every 12 hours (adjust as you like)
-
-# allow pushing files back to the repo
-permissions:
-  contents: write
+    - cron: "0 0 * * *"   # once per day
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Generate snake SVGs (fast)
-        # svg-only is faster and less likely to time out than gif
-        uses: Platane/snk/svg-only@v3
-        id: snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          # default to the repo owner (your profile repo); you can set a specific username
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-                    dist/github-snake.svg
-                    dist/github-snake-dark.svg?palette=github-dark
-                    dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: AnsarAhmed99
+          outputs: dist/github-contribution-grid-snake.svg
 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push generated files to output branch
-        # push 'dist/' to a dedicated 'output' branch (so raw URLs are stable)
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: 'Update snake animations'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
