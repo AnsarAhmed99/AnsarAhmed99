@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Programming & Scripting: Python 🐍, <br><br>Cybersecurity & Networking: Kali Linux 🐧, Bug Bounty🌐, PenTesting 🔐<br><br>Research & Writing: Academic writing ✍️, LaTeX 📚, Research Paper Drafting 🔎<br><br>Data & AI Tools: Pandas 🐼, NumPy 🔢, Streamlit ⚡, Jupyter 📓<br><br>Other Strengths: Troubleshooting 🛠️, Problem-Solving 🎯, System Design 🏗️</h3>
+<h3 align="left">Programming & Scripting: Python 🐍, <br><br>Cybersecurity & Networking: Kali Linux 🐧, Bug Bounty🌐, PenTesting 🔐<br><br>Research & Writing: Academic writing ✍️, LaTeX 📚, Research Paper Drafting 🔎<br><br>Data & AI Tools: Pandas 🐼, NumPy 🔢, Streamlit ⚡, Jupyter 📓<br><br>Other Strengths: Troubleshooting 🛠️, Problem-Solving 🎯, System Design 🏗️, Git & Github 📓</h3>
 
 ###
 
